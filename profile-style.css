@@ -3,16 +3,16 @@ body {
 }
 
 .font40{
-  font-size: 40px;
+  font-size: 4vw;
   background-color: #000080;
   color: #ffffff;
 }
 
 .font20{
-  font-size: 20px;
+  font-size: 2vw;
   color: #000080;
 }
 
 .font30{
-  font-size: 30px;
+  font-size: 3vw;
 }
